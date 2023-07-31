@@ -28,3 +28,4 @@ This webpage of mine,
 And I hope you enjoy
 Everything it has to offer.
 
+Version: 1.1
