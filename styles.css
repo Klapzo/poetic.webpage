@@ -1,0 +1,12 @@
+body {
+  background-color: wheat;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+
+button {
+  padding: 5% 3%;
+
+  border-radius: 15px;
+}
